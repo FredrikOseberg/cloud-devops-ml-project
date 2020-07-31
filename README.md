@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![FredrikOseberg](https://circleci.com/gh/FredrikOseberg/cloud-devops-ml-project.svg?style=svg)](https://app.circleci.com/pipelines/github/FredrikOseberg/cloud-devops-ml-project)
 
 ## Project Overview
 
